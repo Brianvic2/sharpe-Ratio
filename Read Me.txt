@@ -1,0 +1,7 @@
+The program below proceeds to show quntitative analysis(Sharpe Ratio)
+
+William F. Sharpe and has been a long-recognized fund and strategy performance metric. It is widely
+known that the Sharpe Ratio has theoretical shortfalls, but it is still utilized for off-the-cuff benchmarking in
+conversation and reporting.
+The Sharpe Ratio established an important framework for measuring fund and strategy performance.
+The idea of maximizing excess return divided by risk is echoed in most of our performance metrics in
